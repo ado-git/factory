@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<body>
+<variable comment="el identificador de vistas y servlets" d_value="&amp;quot;Prueba&amp;quot;" type="STRING" var_name="identificador"/>
+<variable comment="atributos que se mostraran en la respuesta" d_value="array(&amp;quot;paciente&amp;quot;,&amp;quot;total&amp;quot;)" type="ARRAY" var_name="atributos"/>
+<variable comment="titulo de la pagina del formulario" d_value="&amp;quot;Ingresar datos&amp;quot;" type="STRING" var_name="tituloFormulario"/>
+<variable comment="titulo de la pagina de salida" d_value="&amp;quot;Salida de datos&amp;quot;" type="STRING" var_name="tituloSalida"/>
+<variable comment="variable del formulario" d_value="array(&amp;quot;nombre&amp;quot;,&amp;quot;apellido&amp;quot;,&amp;quot;edad&amp;quot;)" type="ARRAY" var_name="variables_formulario"/>
+</body>
